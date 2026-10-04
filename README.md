@@ -109,6 +109,8 @@ I enjoy transforming ideas into real-world applications that solve meaningful pr
 `Java Spring Boot` • `PostgreSQL` • `Redis` • `Kafka`
 `OpenAI` • `Python FastAPI` • `Docker` • `AWS`
 
+🔗 https://ai-native-manufacturing-erp.vercel.app/
+
 ---
 
 # 🪑 Legend Furniture
@@ -129,6 +131,8 @@ I enjoy transforming ideas into real-world applications that solve meaningful pr
 `Next.js` • `TypeScript` • `Node.js`
 `Tailwind CSS` • `Chapa` • `Framer Motion`
 `Radix UI` • `ImageKit`
+
+🔗 https://legend-furniture.vercel.app/
 
 ---
 
