@@ -300,21 +300,21 @@ Full-stack AI-powered chat platform with secure authentication and Stripe billin
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YitagesTheDeveloper&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github&cache_seconds=86400"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YituTheDeveloper&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github&cache_seconds=86400"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YitagesTheDeveloper&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=YitagesTheDeveloper&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YituTheDeveloper&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"/>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YitagesTheDeveloper&theme=tokyonight&row=1&column=7&no-frame=true"/>
+<img src="https://streak-stats.demolab.com/?user=YituTheDeveloper&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YitagesTheDeveloper&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YituTheDeveloper&theme=tokyonight&row=1&column=7&no-frame=true"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YituTheDeveloper&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
