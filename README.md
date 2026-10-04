@@ -20,18 +20,18 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YitagesTheDeveloper">
+<a href="https://github.com/YituTheDeveloper">
   <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://yitagesadane-page.netlify.app">
+<a href="http://yitages-adane.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YitagesTheDeveloper&style=for-the-badge&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=YituTheDeveloper&style=for-the-badge&color=blue" />
 </p>
 
 </div>
