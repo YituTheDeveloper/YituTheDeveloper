@@ -90,6 +90,48 @@ I enjoy transforming ideas into real-world applications that solve meaningful pr
 
 ---
 
+# 🏭 AI-Native Manufacturing ERP
+
+## Intelligent Enterprise Resource Planning Platform
+
+> Full-stack ERP unifying inventory, procurement, sales, CRM, manufacturing, quality control, and accounting, powered by AI copilots and an event-driven architecture.
+
+### ✨ Features
+
+- 🏢 Full-stack ERP unifying inventory, procurement, sales, CRM, manufacturing, quality control, and accounting
+- 🤖 AI copilots with RAG for context-aware insights, LLM tool calling, and human-in-the-loop approvals
+- 📈 ML demand forecasting and anomaly detection with multi-tenant isolation, RBAC, and audit logging
+- ⚡ Event-driven with Kafka, Redis caching, and full observability via OpenTelemetry, Prometheus, and Grafana
+
+### 🛠️ Tech Stack
+
+`Next.js` • `React` • `TypeScript` • `Tailwind CSS`
+`Java Spring Boot` • `PostgreSQL` • `Redis` • `Kafka`
+`OpenAI` • `Python FastAPI` • `Docker` • `AWS`
+
+---
+
+# 🪑 Legend Furniture
+
+## Modern Furniture E-Commerce Platform
+
+> A modern furniture e-commerce platform with a seamless browsing experience, built for the Ethiopian market.
+
+### ✨ Features
+
+- 🛋️ Modern furniture e-commerce platform with seamless browsing experience
+- 💳 Secure payment integration with Chapa for the Ethiopian market
+- ✨ Smooth animations and intuitive UI with Framer Motion and Radix UI
+- 🖼️ Optimized media handling with ImageKit for fast loading
+
+### 🛠️ Tech Stack
+
+`Next.js` • `TypeScript` • `Node.js`
+`Tailwind CSS` • `Chapa` • `Framer Motion`
+`Radix UI` • `ImageKit`
+
+---
+
 # 🏨 Michot Stay
 
 ## Modern Hotel Booking Platform
@@ -238,51 +280,6 @@ Full-stack AI-powered chat platform with secure authentication and Stripe billin
 
 ---
 
-# 🎬 Netflix Clone
-
-## Streaming UI Recreation
-
-Pixel-perfect Netflix clone with dynamic content rendering and responsive design.
-
-### ✨ Features
-
-- 🎥 TMDB API integration
-- ⚡ Lazy loading optimization
-- 📱 Responsive UI
-- 🎨 Modern design recreation
-
-### 🛠️ Tech Stack
-
-`React`
-`Tailwind CSS`
-`TMDB API`
-
-🔗 https://netflix-clone-2025-by-yitages.vercel.app/
-
----
-
-# 🛒 Amazon Clone
-
-## E-Commerce Application
-
-Modern shopping experience with state management and checkout workflow.
-
-### ✨ Features
-
-- 🛍️ Product browsing
-- 🛒 Shopping cart system
-- 💳 Checkout workflow
-- ⚡ Redux state management
-
-### 🛠️ Tech Stack
-
-`React`
-`Redux`
-
-🔗 https://yitages-amazon-clone.netlify.app/
-
----
-
 # 🎓 Education
 
 ## Bachelor of Science in Software Engineering
@@ -299,13 +296,13 @@ Modern shopping experience with state management and checkout workflow.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YitagesTheDeveloper&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YitagesTheDeveloper&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github&cache_seconds=86400"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YitagesTheDeveloper&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YitagesTheDeveloper&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=YitagesTheDeveloper&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=YitagesTheDeveloper&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
@@ -313,7 +310,7 @@ Modern shopping experience with state management and checkout workflow.
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YitagesTheDeveloper&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YitagesTheDeveloper&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
