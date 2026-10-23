@@ -40,7 +40,7 @@
 
 # 🧠 About Me
 
-I'm a passionate **Full-Stack Software Engineer** and a **4th-year Software Engineering student** focused on building modern, scalable, and impactful digital products.
+I'm a passionate **Full-Stack Software Engineer** focused on building modern, scalable, and impactful digital products.
 
 I specialize in:
 
@@ -290,10 +290,8 @@ Full-stack AI-powered chat platform with secure authentication and Stripe billin
 
 ### 🏛️ Arba Minch University
 
-- 🎓 4th Year Software Engineering Student
+- 🎓 5th Year Software Engineering Student
 - 📅 Expected Graduation: June 2027
-- 🌍 Member of AMU Tech Hub
-
 ---
 
 # 📈 GitHub Analytics
